@@ -1,0 +1,101 @@
+{
+    "main": {
+        "name": "Samuel Character",
+        "description": "塞缪尔",
+        "image": "profilepic.jpg",
+        "bio": " Currently, a senior pursuing a degree in Computer Science,Geographic Information Systems & IT at The University of North Texas and I am currently a freelancing Software Developer. I am a self-motivated individual with experience in coding software applications and web-development in a progressive and challenging environment. I strive to improve upon my strong analytical skills, problem solving skills, presentation skills, and critical thinking ability to assist colleagues solve their complex problems by keeping up with the constantly changing industry demands.",
+        "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+        "email": "samcharacter@yahoo.com",
+        "phone": "555-555-5555",
+        "github": "https://github.com/",
+        "project": "https://github.com/",
+        "address": {
+            "street": "(Your Street)",
+            "city": "(Your City)",
+            "state": "(Your State)"
+        },
+        "website": "https://github.com/",
+        "resumedownload": "https://rkns.link/w6vt5",
+        "social": [
+            {
+                "name": "facebook",
+                "url": "https://github.com/",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "twitter",
+                "url": "http://twitter.com",
+                "className": "fa fa-twitter"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "http://instagram.com/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+        "education": [
+            {
+                "school": "University?",
+                "degree": "Masters in Beer tasting",
+                "graduated": "April 2007",
+                "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+            },
+            {
+                "school": "Hogwarts School of Witchcraft and Wizardry",
+                "degree": "Gryffindor House",
+                "graduated": "March 2003",
+                "description": "Received 10 Outstandings in Care of Magical Creatures, Transfiguration, Potions, Charms, Herbology, Astronomy, History of Magic, Arithmancy, Ancient Runes, and Wandmaking."
+            }
+        ],
+        "work": [
+            {
+                "company": "Department of Magical Law Enforcement",
+                "title": "Ministry of Magic",
+                "years": "December 2010 - Present",
+                "description": "Work to put an end to pro-pureblood laws through negotiation, petitions, and enforcing and creating fair laws for the wizarding community.s"
+            },
+            {
+                "company": "Department for the Regulation and Control of Magical Creatures",
+                "title": "Ministry of Magic",
+                "years": "March 2007 - December 2010",
+                "description": "Worked to improve the quality of life for house-elves and other disenfranchised creatures."
+            }
+        ],
+        "skills": [
+            {
+                "name": "Python",
+                "level": "60%"
+            },
+            {
+                "name": "VueJs",
+                "level": "55%"
+            },
+            {
+                "name": "ReactJs",
+                "level": "50%"
+            },
+            {
+                "name": "CSS",
+                "level": "90%"
+            },
+            {
+                "name": "JAVA",
+                "level": "80%"
+            }
+        ]
+    }
+    
+}
